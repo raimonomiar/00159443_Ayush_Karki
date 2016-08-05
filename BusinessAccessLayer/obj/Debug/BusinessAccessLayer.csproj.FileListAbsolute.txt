@@ -1,0 +1,9 @@
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

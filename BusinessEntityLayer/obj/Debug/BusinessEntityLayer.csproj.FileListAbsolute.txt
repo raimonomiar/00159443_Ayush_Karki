@@ -1,0 +1,5 @@
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.dll
+C:\Users\ayush\documents\visual studio 2012\Projects\OnlineBookStore2\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.pdb
